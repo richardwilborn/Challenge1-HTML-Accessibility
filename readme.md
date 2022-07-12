@@ -1,0 +1,1 @@
+This is module 1 assignment. This covers basic HTML accessibility.
